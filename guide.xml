@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal MTV (México)">
+    <display-name lang="es">MTV FHD (MX)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Premier 2">
+    <display-name lang="es">Golden Premier 2 MX FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinema Dinamita">
+    <display-name lang="es">Cinema Dinamita</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal City TV">
+    <display-name lang="es">City TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210114005000 +0100" stop="20210114014500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210114014500 +0100" stop="20210114023000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210114023000 +0100" stop="20210114031500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210114031500 +0100" stop="20210114040000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210114040000 +0100" stop="20210114044500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore Los originales</title>
+  </programme>
+  <programme start="20210114044500 +0100" stop="20210114054000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La venganza de los EX en la</title>
+  </programme>
+  <programme start="20210114054000 +0100" stop="20210114073000 +0100" channel="Canal MTV (México)">
+    <title lang="es">El reportero Ron Burgundy</title>
+  </programme>
+  <programme start="20210114073000 +0100" stop="20210114082000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore Los originales</title>
+  </programme>
+  <programme start="20210114082000 +0100" stop="20210114091000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La venganza de los EX en la</title>
+  </programme>
+  <programme start="20210114091000 +0100" stop="20210114100000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210114100000 +0100" stop="20210114110000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210114110000 +0100" stop="20210114120000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210114120000 +0100" stop="20210114130000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210114130000 +0100" stop="20210114140000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210114140000 +0100" stop="20210114150000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210114150000 +0100" stop="20210114152500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210114152500 +0100" stop="20210114155000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210114155000 +0100" stop="20210114164000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore</title>
+  </programme>
+  <programme start="20210114164000 +0100" stop="20210114173000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore S.11-12</title>
+  </programme>
+  <programme start="20210114173000 +0100" stop="20210114181500 +0100" channel="Canal MTV (México)">
+    <title lang="es">La venganza de los Ex</title>
+  </programme>
+  <programme start="20210114181500 +0100" stop="20210114191000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La venganza de los Ex</title>
+  </programme>
+  <programme start="20210114191000 +0100" stop="20210114193500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210114193500 +0100" stop="20210114200500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210114200500 +0100" stop="20210114202500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210114202500 +0100" stop="20210114205500 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210114205500 +0100" stop="20210114213000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210114213000 +0100" stop="20210114215500 +0100" channel="Canal MTV (México)">
+    <title lang="es">MAWY Del antro al campo</title>
+  </programme>
+  <programme start="20210114215500 +0100" stop="20210114225000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore Sus historias</title>
+  </programme>
+  <programme start="20210114225000 +0100" stop="20210114235000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210114235000 +0100" stop="20210115004500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210115004500 +0100" stop="20210115012500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115012500 +0100" stop="20210115021500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115021500 +0100" stop="20210115030000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115030000 +0100" stop="20210115041500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Catfish</title>
+  </programme>
+  <programme start="20210115041500 +0100" stop="20210115050500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ghosted Amor fuera de línea</title>
+  </programme>
+  <programme start="20210115050500 +0100" stop="20210115060000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115060000 +0100" stop="20210115065000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115065000 +0100" stop="20210115074000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210115074000 +0100" stop="20210115083000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ghosted Amor fuera de línea</title>
+  </programme>
+  <programme start="20210115083000 +0100" stop="20210115090000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210115090000 +0100" stop="20210115100000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210115100000 +0100" stop="20210115110000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210115110000 +0100" stop="20210115120000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210115120000 +0100" stop="20210115130000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210115130000 +0100" stop="20210115140000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210115140000 +0100" stop="20210115150000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Arriba MTV</title>
+  </programme>
+  <programme start="20210115150000 +0100" stop="20210115152500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210115152500 +0100" stop="20210115155000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210115155000 +0100" stop="20210115164000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore</title>
+  </programme>
+  <programme start="20210115164000 +0100" stop="20210115172500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore</title>
+  </programme>
+  <programme start="20210115172500 +0100" stop="20210115191500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuando Harry encontró a Sally</title>
+  </programme>
+  <programme start="20210115191500 +0100" stop="20210115194500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210115194500 +0100" stop="20210115201000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210115201000 +0100" stop="20210115204000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210115204000 +0100" stop="20210115211500 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210115211500 +0100" stop="20210115214000 +0100" channel="Canal MTV (México)">
+    <title lang="es">MAWY Del antro al campo</title>
+  </programme>
+  <programme start="20210115214000 +0100" stop="20210115223000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore Sus historias</title>
+  </programme>
+  <programme start="20210115223000 +0100" stop="20210115233000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210115233000 +0100" stop="20210116002500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210116233000 +0100" stop="20210117002500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210117002500 +0100" stop="20210117011500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210117011500 +0100" stop="20210117021000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210117021000 +0100" stop="20210117030000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210117030000 +0100" stop="20210117043000 +0100" channel="Canal MTV (México)">
+    <title lang="es">MTV Top 20</title>
+  </programme>
+  <programme start="20210117043000 +0100" stop="20210117050000 +0100" channel="Canal MTV (México)">
+    <title lang="es">PEN15</title>
+  </programme>
+  <programme start="20210117050000 +0100" stop="20210117060000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Dani Who</title>
+  </programme>
+  <programme start="20210117060000 +0100" stop="20210117063000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Chica Rara</title>
+  </programme>
+  <programme start="20210117063000 +0100" stop="20210117081000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuando Harry encontró a Sally</title>
+  </programme>
+  <programme start="20210117081000 +0100" stop="20210117090000 +0100" channel="Canal MTV (México)">
+    <title lang="es">World Stage Bebe Rexha</title>
+  </programme>
+  <programme start="20210117090000 +0100" stop="20210117100000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210117150000 +0100" stop="20210117160000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuchareando en MTV</title>
+  </programme>
+  <programme start="20210117160000 +0100" stop="20210117170000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuchareando en MTV</title>
+  </programme>
+  <programme start="20210117170000 +0100" stop="20210117173000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210117173000 +0100" stop="20210117175500 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210117175500 +0100" stop="20210117182000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210117182000 +0100" stop="20210117184500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210117184500 +0100" stop="20210117191000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210117191000 +0100" stop="20210117193500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210117193500 +0100" stop="20210117200000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210117200000 +0100" stop="20210117202500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210117202500 +0100" stop="20210117221000 +0100" channel="Canal MTV (México)">
+    <title lang="es">MTV Top 20</title>
+  </programme>
+  <programme start="20210117221000 +0100" stop="20210117230000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La venganza de los EX en la</title>
+  </programme>
+  <programme start="20210117230000 +0100" stop="20210117235000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210117235000 +0100" stop="20210118004500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Super Shore</title>
+  </programme>
+  <programme start="20210118004500 +0100" stop="20210118020000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Catfish</title>
+  </programme>
+  <programme start="20210118020000 +0100" stop="20210118024500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ghosted fuera de línea</title>
+  </programme>
+  <programme start="20210118024500 +0100" stop="20210118031500 +0100" channel="Canal MTV (México)">
+    <title lang="es">PEN15</title>
+  </programme>
+  <programme start="20210118031500 +0100" stop="20210118041200 +0100" channel="Canal MTV (México)">
+    <title lang="es">Dani Who</title>
+  </programme>
+  <programme start="20210118041200 +0100" stop="20210118044000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Chica Rara</title>
+  </programme>
+  <programme start="20210118044000 +0100" stop="20210118053000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore Los originales</title>
+  </programme>
+  <programme start="20210118053000 +0100" stop="20210118062000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Venganza de los Ex Brasil</title>
+  </programme>
+  <programme start="20210118062000 +0100" stop="20210118071000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Acapulco Shore</title>
+  </programme>
+  <programme start="20210118071000 +0100" stop="20210118081000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Venganza de los Ex Brasil</title>
+  </programme>
+  <programme start="20210118081000 +0100" stop="20210118090000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Insomnio MTV</title>
+  </programme>
+  <programme start="20210118150000 +0100" stop="20210118160000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuchareando en MTV</title>
+  </programme>
+  <programme start="20210118160000 +0100" stop="20210118170000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Cuchareando en MTV</title>
+  </programme>
+  <programme start="20210118170000 +0100" stop="20210118173000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210118173000 +0100" stop="20210118175500 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210118175500 +0100" stop="20210118182000 +0100" channel="Canal MTV (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210118182000 +0100" stop="20210118184500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210118184500 +0100" stop="20210118191000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Daria</title>
+  </programme>
+  <programme start="20210118191000 +0100" stop="20210118193500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210118193500 +0100" stop="20210118200000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210118200000 +0100" stop="20210118203000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ridiculousness</title>
+  </programme>
+  <programme start="20210118203000 +0100" stop="20210118214000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Catfish</title>
+  </programme>
+  <programme start="20210118214000 +0100" stop="20210118223000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Ghosted fuera de línea</title>
+  </programme>
+  <programme start="20210118223000 +0100" stop="20210118232000 +0100" channel="Canal MTV (México)">
+    <title lang="es">Geordie Shore Los originales</title>
+  </programme>
+  <programme start="20210118232000 +0100" stop="20210118234500 +0100" channel="Canal MTV (México)">
+    <title lang="es">Chica Rara</title>
+  </programme>
+  <programme start="20210118234500 +0100" stop="20210119001500 +0100" channel="Canal MTV (México)">
+    <title lang="es">PEN15</title>
+  </programme>
+  <programme start="20210114012000 +0100" stop="20210114031300 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Paradas continuas</title>
+  </programme>
+  <programme start="20210114031300 +0100" stop="20210114045800 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Paraíso</title>
+  </programme>
+  <programme start="20210114045800 +0100" stop="20210114063000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Norm of the North</title>
+  </programme>
+  <programme start="20210114063000 +0100" stop="20210114072600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Operación Pacífico</title>
+  </programme>
+  <programme start="20210114072600 +0100" stop="20210114081000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210114081000 +0100" stop="20210114101500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Rush Pasión y gloria</title>
+  </programme>
+  <programme start="20210114101500 +0100" stop="20210114121500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Into the fire</title>
+  </programme>
+  <programme start="20210114121500 +0100" stop="20210114134900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Todos los caminos llevan a Roma</title>
+  </programme>
+  <programme start="20210114134900 +0100" stop="20210114152900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Zapatero a tus zapatos</title>
+  </programme>
+  <programme start="20210114152900 +0100" stop="20210114171500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El gangster</title>
+  </programme>
+  <programme start="20210114171500 +0100" stop="20210114185500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">99 minutos en el cielo</title>
+  </programme>
+  <programme start="20210114185500 +0100" stop="20210114202800 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">About Ray: Three generations</title>
+  </programme>
+  <programme start="20210114202800 +0100" stop="20210114220400 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Spring breakers</title>
+  </programme>
+  <programme start="20210114220400 +0100" stop="20210114235200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sueño de amor</title>
+  </programme>
+  <programme start="20210114235200 +0100" stop="20210115013200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Un papá pirata</title>
+  </programme>
+  <programme start="20210115235200 +0100" stop="20210116013200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Un papá pirata</title>
+  </programme>
+  <programme start="20210116013200 +0100" stop="20210116025900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Malaventura</title>
+  </programme>
+  <programme start="20210116025900 +0100" stop="20210116044000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El último sacramento</title>
+  </programme>
+  <programme start="20210116044000 +0100" stop="20210116063000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El regalo</title>
+  </programme>
+  <programme start="20210116063000 +0100" stop="20210116072600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Operación Pacífico</title>
+  </programme>
+  <programme start="20210116072600 +0100" stop="20210116081000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210116081000 +0100" stop="20210116094400 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Inquilinos</title>
+  </programme>
+  <programme start="20210116094400 +0100" stop="20210116115300 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Huérfanos</title>
+  </programme>
+  <programme start="20210116115300 +0100" stop="20210116133300 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Un papá pirata</title>
+  </programme>
+  <programme start="20210116133300 +0100" stop="20210116150400 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Pinocho</title>
+  </programme>
+  <programme start="20210116150400 +0100" stop="20210116163600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Pinocho</title>
+  </programme>
+  <programme start="20210116163600 +0100" stop="20210116180200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Gnomeo y Julieta</title>
+  </programme>
+  <programme start="20210116180200 +0100" stop="20210116192900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sacúdete las Penas</title>
+  </programme>
+  <programme start="20210116192900 +0100" stop="20210116210100 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Brooklyn armada</title>
+  </programme>
+  <programme start="20210116210100 +0100" stop="20210116222700 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Nunca te rindas</title>
+  </programme>
+  <programme start="20210116222700 +0100" stop="20210116235800 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Perfume de Violeta</title>
+  </programme>
+  <programme start="20210116235800 +0100" stop="20210117014100 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">La casa de al lado</title>
+  </programme>
+  <programme start="20210117014100 +0100" stop="20210117032000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Hardcore Henry</title>
+  </programme>
+  <programme start="20210117032000 +0100" stop="20210117045800 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">La Pareja Perfecta</title>
+  </programme>
+  <programme start="20210117045800 +0100" stop="20210117063000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El cielo es azul</title>
+  </programme>
+  <programme start="20210117063000 +0100" stop="20210117071500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Operación Pacífico</title>
+  </programme>
+  <programme start="20210117071500 +0100" stop="20210117080200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+  </programme>
+  <programme start="20210117080200 +0100" stop="20210117094900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">La Última Ola</title>
+  </programme>
+  <programme start="20210117094900 +0100" stop="20210117115900 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">La masajista 4</title>
+  </programme>
+  <programme start="20210117115900 +0100" stop="20210117133000 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Perfume de Violeta</title>
+  </programme>
+  <programme start="20210117133000 +0100" stop="20210117151400 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Enemigo invisible</title>
+  </programme>
+  <programme start="20210117151400 +0100" stop="20210117170100 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Sueño de amor</title>
+  </programme>
+  <programme start="20210117170100 +0100" stop="20210117183300 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El Ángel en el Reloj</title>
+  </programme>
+  <programme start="20210117183300 +0100" stop="20210117200500 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Rumbos paralelos</title>
+  </programme>
+  <programme start="20210117200500 +0100" stop="20210117213600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Perfume de Violeta</title>
+  </programme>
+  <programme start="20210117213600 +0100" stop="20210117231200 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">El último paciente: Chronic</title>
+  </programme>
+  <programme start="20210117231200 +0100" stop="20210118005600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Enemigo invisible</title>
+  </programme>
+  <programme start="20210118231200 +0100" stop="20210119005600 +0100" channel="Canal Golden Premier 2">
+    <title lang="es">Enemigo invisible</title>
+  </programme>
+  <programme start="20210114020000 +0100" stop="20210114035900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Tratantes blancas</title>
+  </programme>
+  <programme start="20210114035900 +0100" stop="20210114055900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El sexo me da risa 7</title>
+  </programme>
+  <programme start="20210114055900 +0100" stop="20210114075900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El estudiante 6</title>
+  </programme>
+  <programme start="20210114075900 +0100" stop="20210114100000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Peligrosa tentación V</title>
+  </programme>
+  <programme start="20210114100000 +0100" stop="20210114120000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Tratantes blancas</title>
+  </programme>
+  <programme start="20210114120000 +0100" stop="20210114140000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Nora la michoacana</title>
+  </programme>
+  <programme start="20210114140000 +0100" stop="20210114155900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Una luz en la calle</title>
+  </programme>
+  <programme start="20210114155900 +0100" stop="20210114175900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Clave Privada</title>
+  </programme>
+  <programme start="20210114175900 +0100" stop="20210114195900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El tahúr de Michoacán</title>
+  </programme>
+  <programme start="20210114195900 +0100" stop="20210114215900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El asesino del candidato</title>
+  </programme>
+  <programme start="20210114215900 +0100" stop="20210114235900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Dos plebes 3</title>
+  </programme>
+  <programme start="20210114235900 +0100" stop="20210115020000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El poder del narco</title>
+  </programme>
+  <programme start="20210115020000 +0100" stop="20210115040000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Morir con estilo</title>
+  </programme>
+  <programme start="20210115040000 +0100" stop="20210115060000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Muerte y sexo en el barrio</title>
+  </programme>
+  <programme start="20210115060000 +0100" stop="20210115080000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El mochomo - Jefe de jefes</title>
+  </programme>
+  <programme start="20210115080000 +0100" stop="20210115100000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El diario de una prostituta 2</title>
+  </programme>
+  <programme start="20210115100000 +0100" stop="20210115120000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Morir con estilo</title>
+  </programme>
+  <programme start="20210115120000 +0100" stop="20210115135900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Desgracia de ilegales</title>
+  </programme>
+  <programme start="20210115135900 +0100" stop="20210115155900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Los guerreros de la noche</title>
+  </programme>
+  <programme start="20210115155900 +0100" stop="20210115175900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">Sucursal del infierno</title>
+  </programme>
+  <programme start="20210115175900 +0100" stop="20210115195900 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El regreso del muerto</title>
+  </programme>
+  <programme start="20210115195900 +0100" stop="20210115214400 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El retrato de una mentira</title>
+  </programme>
+  <programme start="20210115214400 +0100" stop="20210115235500 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">La camioneta azul de la mafia</title>
+  </programme>
+  <programme start="20210115235500 +0100" stop="20210116020000 +0100" channel="Canal Cinema Dinamita">
+    <title lang="es">El baleado 3</title>
+  </programme>
+  <programme start="20210114010000 +0100" stop="20210114020000 +0100" channel="Canal City TV">
+    <title lang="es">La Hija del Jardinero</title>
+  </programme>
+  <programme start="20210114020000 +0100" stop="20210114033000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210114033000 +0100" stop="20210114043000 +0100" channel="Canal City TV">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210114043000 +0100" stop="20210114060000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210114060000 +0100" stop="20210114063000 +0100" channel="Canal City TV">
+    <title lang="es">Comercial - Religioso</title>
+  </programme>
+  <programme start="20210114063000 +0100" stop="20210114093000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210114093000 +0100" stop="20210114100000 +0100" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210114100000 +0100" stop="20210114113000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210114113000 +0100" stop="20210114153000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210114153000 +0100" stop="20210114163000 +0100" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210114163000 +0100" stop="20210114173000 +0100" channel="Canal City TV">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210114173000 +0100" stop="20210114190000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210114190000 +0100" stop="20210114203000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210114203000 +0100" stop="20210114213000 +0100" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210114213000 +0100" stop="20210114220000 +0100" channel="Canal City TV">
+    <title lang="es">Los Años Maravillosos</title>
+  </programme>
+  <programme start="20210114220000 +0100" stop="20210114230000 +0100" channel="Canal City TV">
+    <title lang="es">Oso Yogui</title>
+  </programme>
+  <programme start="20210114230000 +0100" stop="20210115000000 +0100" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20210115173000 +0100" stop="20210115190000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210116033000 +0100" stop="20210116040000 +0100" channel="Canal City TV">
+    <title lang="es">Hashtag</title>
+  </programme>
+  <programme start="20210116040000 +0100" stop="20210116050000 +0100" channel="Canal City TV">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210116050000 +0100" stop="20210116060000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210116060000 +0100" stop="20210116063000 +0100" channel="Canal City TV">
+    <title lang="es">Comercial - Religioso</title>
+  </programme>
+  <programme start="20210116063000 +0100" stop="20210116093000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210116093000 +0100" stop="20210116103000 +0100" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210116103000 +0100" stop="20210116120000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210116120000 +0100" stop="20210116133000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba, Bogotá - Reporte semanal</title>
+  </programme>
+  <programme start="20210116133000 +0100" stop="20210116180000 +0100" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20210116180000 +0100" stop="20210116190000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210116190000 +0100" stop="20210116200000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210116200000 +0100" stop="20210116213000 +0100" channel="Canal City TV">
+    <title lang="es">Oso Yogui</title>
+  </programme>
+  <programme start="20210116213000 +0100" stop="20210116223000 +0100" channel="Canal City TV">
+    <title lang="es">Gato cósmico</title>
+  </programme>
+  <programme start="20210116223000 +0100" stop="20210116233000 +0100" channel="Canal City TV">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210116233000 +0100" stop="20210117003000 +0100" channel="Canal City TV">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20210117233000 +0100" stop="20210118003000 +0100" channel="Canal City TV">
+    <title lang="es">Lucha libre</title>
+  </programme>
+  <programme start="20210118003000 +0100" stop="20210118013000 +0100" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20210118013000 +0100" stop="20210118020000 +0100" channel="Canal City TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210118020000 +0100" stop="20210118030000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210118030000 +0100" stop="20210118040000 +0100" channel="Canal City TV">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210118040000 +0100" stop="20210118043000 +0100" channel="Canal City TV">
+    <title lang="es">Noticiero del Congreso</title>
+  </programme>
+  <programme start="20210118043000 +0100" stop="20210118050000 +0100" channel="Canal City TV">
+    <title lang="es">El Rollo de Fili *Sta B</title>
+  </programme>
+  <programme start="20210118050000 +0100" stop="20210118053000 +0100" channel="Canal City TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210118053000 +0100" stop="20210118060000 +0100" channel="Canal City TV">
+    <title lang="es">Comercial - Religioso</title>
+  </programme>
+  <programme start="20210118060000 +0100" stop="20210118090000 +0100" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20210118090000 +0100" stop="20210118103000 +0100" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210118103000 +0100" stop="20210118113000 +0100" channel="Canal City TV">
+    <title lang="es">Los hijos del Barrio</title>
+  </programme>
+  <programme start="20210118113000 +0100" stop="20210118120000 +0100" channel="Canal City TV">
+    <title lang="es">Entrevista con María Beatriz</title>
+  </programme>
+  <programme start="20210118120000 +0100" stop="20210118123000 +0100" channel="Canal City TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210118123000 +0100" stop="20210118133000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210118200000 +0100" stop="20210118203000 +0100" channel="Canal City TV">
+    <title lang="es">Defensor del Televidente UNO TV</title>
+  </programme>
+  <programme start="20210118203000 +0100" stop="20210118213000 +0100" channel="Canal City TV">
+    <title lang="es">Oso Yogui</title>
+  </programme>
+  <programme start="20210118213000 +0100" stop="20210118223000 +0100" channel="Canal City TV">
+    <title lang="es">Gato cósmico</title>
+  </programme>
+  <programme start="20210118223000 +0100" stop="20210118233000 +0100" channel="Canal City TV">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+</tv>
